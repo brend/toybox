@@ -1,6 +1,6 @@
 [package]
 name = "toybox"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 authors = ["Philipp Brendel <waldrumpus@gmail.com>"]
 license = "MIT"
@@ -9,4 +9,5 @@ description = "A toybox for learning Rust"
 keywords = ["rust", "learning", "creative"]
 
 [dependencies]
-raylib = "5.0"
+raylib = "5.0.0"
+rand = "0.8.4"
