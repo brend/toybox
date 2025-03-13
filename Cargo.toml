@@ -8,3 +8,4 @@ description = "A toybox for learning Rust"
 keywords = ["rust", "learning", "creative"]
 
 [dependencies]
+raylib = "5.0"
