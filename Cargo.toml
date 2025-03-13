@@ -1,0 +1,10 @@
+[package]
+name = "toybox"
+version = "0.1.0"
+edition = "2024"
+authors = ["Philipp Brendel <waldrumpus@gmail.com>"]
+license = "MIT"
+description = "A toybox for learning Rust"
+keywords = ["rust", "learning", "creative"]
+
+[dependencies]
